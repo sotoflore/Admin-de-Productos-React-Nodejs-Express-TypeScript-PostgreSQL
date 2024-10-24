@@ -1,8 +1,18 @@
-# Checklist Deployment
+# Administrador de productos con el stack PERN
 
+## Lista productos
+![admin](https://github.com/sotoflore/Administrador-de-Productos-React-Nodejs-Express-TypeScript-PostgreSQL/blob/main/client/public/admin.png)
+
+## Agregar productos
+![admin](https://github.com/sotoflore/Administrador-de-Productos-React-Nodejs-Express-TypeScript-PostgreSQL/blob/main/client/public/add-product.png)
+
+## Eidtar un producto
+![admin](https://github.com/sotoflore/Administrador-de-Productos-React-Nodejs-Express-TypeScript-PostgreSQL/blob/main/client/public/edit-product.png)
+
+## Tecnologias
 El proyecto consta de 3 partes:
-- Frontend : React
-- Backend : Nodejs, Express, TypeScript
+- Frontend : React, Tailwindcss, React Router Dom, Axios, Valibot
+- Backend : Nodejs, Express, TypeScript, Morgan para los logs
 - Bases de Datos : PostgreSQL
 
 ## Deployment
